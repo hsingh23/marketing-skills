@@ -17,6 +17,20 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-05-06] v2.3.19
+
+### Changed
+
+- **geo** (v1.4.0) - RAG & Search Supply (4 retrieval types, platform mapping); AI Crawlers & Discovery (training/index/real-time taxonomy); platform traffic share context.
+- **linkedin-posts** (v1.2.0) - Platform positioning (LinkedIn vs Meta/X/TikTok); Off-Site Search Visibility (SEO/GEO tables, actionable checklist); Profile Modules for Discovery (7 modules with value ratings).
+- **eeat-signals** (v1.1.0) - Expanded Author Bio: components, placement strategy (with mobile fallback), multi-author handling, Person JSON-LD schema.
+- **indexing** (v1.0.1) - Page Removal Decision Framework (301/410/404/noindex with rationale), common mistakes, post-removal cleanup steps.
+- **community-forum** (v1.1.1) - Discourse self-hosted forum SEO/GEO guidelines (guest access, topic structure, sitemap, subdomain vs subdirectory).
+
+### Fixed
+
+- **geo** - Push submission claim: Google Indexing API limited to JobPosting and BroadcastEvent only, not general content.
+
 ## [2026-04-23] v2.3.18
 
 ### Changed
